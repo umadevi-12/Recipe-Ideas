@@ -21,7 +21,7 @@ This project was built as part of the **Aganitha Full Stack Developer Take-Home 
 
 All brainstorming, code planning, and debugging were done with the help of **ChatGPT (GPT-5)**.  
 Here’s the full ChatGPT discussion link used to plan and build this project:  
-🔗 **ChatGPT Work Link:** [Paste your ChatGPT share link here]
+🔗 **ChatGPT Work Link:** 
 
 ---
 
@@ -37,7 +37,7 @@ Example: `https://recipe-ideas-app.stackblitz.io`
 
 Complete source code with documentation:  
 🔗 **GitHub Repository:**  
-Example: `https://github.com/umadevi/recipe-ideas-app`
+Example: https://github.com/umadevi-12/Recipe-Ideas
 
 ---
 
