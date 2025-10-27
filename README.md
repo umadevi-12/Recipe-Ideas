@@ -28,7 +28,7 @@ Here’s the full ChatGPT discussion link used to plan and build this project:
 ## 🌐 Live Demo (Level 2 - 30%)
 
 You can try the hosted version of the app here:  
-🔗 **Live App Link:** [Paste your CodeSandbox or StackBlitz link here]  
+🔗 **Live App Link:** https://recipe-ideas-iber.vercel.app/ 
 Example: `https://recipe-ideas-app.stackblitz.io`
 
 ---
@@ -36,7 +36,7 @@ Example: `https://recipe-ideas-app.stackblitz.io`
 ## 💻 Source Code (Level 3 - 20%)
 
 Complete source code with documentation:  
-🔗 **GitHub Repository:** [Paste your GitHub repo link here]  
+🔗 **GitHub Repository:**  
 Example: `https://github.com/umadevi/recipe-ideas-app`
 
 ---
