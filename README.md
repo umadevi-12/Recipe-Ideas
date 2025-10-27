@@ -19,9 +19,8 @@ This project was built as part of the **Aganitha Full Stack Developer Take-Home 
 
 ## 🧠 Working with AI (Level 1 - 50%)
 
-All brainstorming, code planning, and debugging were done with the help of **ChatGPT (GPT-5)**.  
+All brainstorming, code planning, and debugging were done with the help of.  
 Here’s the full ChatGPT discussion link used to plan and build this project:  
-🔗 **ChatGPT Work Link:** 
 
 ---
 
